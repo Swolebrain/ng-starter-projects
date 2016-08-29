@@ -3,14 +3,13 @@
 2. Add the following upject to the appetizers property of the scope:
   ```Javascript
   {
-    name:
-     'Bruschetta',
+    name: 'Bruschetta',
     description: 'Grilled bread garlic,tomatoes,olive oil.',
     price: 4.95
   }
- 
+
   ```
-  
+
 3. Inside div.appetizer.row, use ng-repeat to loop through the appetizers array. Display each appetizer's name, description, and price using expressions.
 
 4. Use the currency filter to format the appetizers class.
