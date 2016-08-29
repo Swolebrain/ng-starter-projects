@@ -1,4 +1,4 @@
-1. Create a new module named OutboxApp, and then attach it to the <body> element in the view.
+1. Create a new module named OutboxApp, and then attach it to the body element in the view.
 
 2. Visit [emails.json](https://www.codecademy.com/courses/learn-angularjs/projects/angularjs_outbox-1). It's a JSON object containing an array of emails. Let's fetch this data and display it in the app.
 
@@ -15,4 +15,4 @@
 
 6. Attach the controller to the div.main element.
 
-7. In the view, finish the code to display an email. Looking at the format of the data in emails.json, display each email's from, subject, and datetime in their corresponding <span> elements.
+7. In the view, finish the code to display an email. Looking at the format of the data in emails.json, display each email's from, subject, and datetime in their corresponding span elements.
