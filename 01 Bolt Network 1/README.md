@@ -1,6 +1,6 @@
 
 1. Create a new module in app.js: BoltNetworkApp, then attach it to the body of the markup using the ng-app directive.
-2. Create a new Controller. In the controller, set $scope.programs equal to the following:
+2. Create a new Controller. In the controller, set $scope.programs equal to the following:  
   ```Javascript
   $scope.programs = [
     {
@@ -25,4 +25,3 @@
   ```
 3. Attach the controller to div.main
 4. Inside the div.main, display the details of the program using expressions. Use the date filter to filter dates.
-5. 
