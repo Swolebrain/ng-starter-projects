@@ -1,7 +1,7 @@
 
 1. Create a new module in app.js: BoltNetworkApp, then attach it to the body of the markup using the ng-app directive.
 2. Create a new Controller. In the controller, set $scope.programs equal to the following:  
-  ```Javascript
+  ```javascript
   $scope.programs = [
     {
       series: "Sherlock",
