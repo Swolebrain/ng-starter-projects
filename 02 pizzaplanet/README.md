@@ -1,6 +1,6 @@
 1. Create a new module named PizzaPlanetApp in js/app.js, and then attach it to the <body> element in the view.
 
-2. Add the following upject to the appetizers property of the scope:
+2. Add the following object to the appetizers property of the scope:
   ```Javascript
   {
     name: 'Bruschetta',
