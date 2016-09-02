@@ -16,7 +16,7 @@
 
 5. Add a new property called $scope.mains and fill it with at least 3 made up main courses of your choice.
 
-6. In the view, adapt the div.row element to create a div.mains element. Loop through the mains and display each item using expressions and filters. View the result in the browser.
+6. In the view, adapt the div.row element to create a series of div.mains element. Loop through the mains and display each item using expressions and filters. View the result in the browser.
 
 7. In the controller, add another property called $scope.extras containing an array of three objects. Feel free to use your favorite sides.
 
