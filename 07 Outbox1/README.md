@@ -1,6 +1,6 @@
 1. Create a new module named OutboxApp, and then attach it to the body element in the view.
 
-2. Visit [emails.json](https://www.codecademy.com/courses/learn-angularjs/projects/angularjs_outbox-1). It's a JSON object containing an array of emails. Let's fetch this data and display it in the app.
+2. Visit [emails.json](https://s3.amazonaws.com/codecademy-content/courses/ltp4/emails-api/emails.json). It's a JSON object containing an array of emails. Let's fetch this data and display it in the app.
 
 3. Create a service named emails for getting this email data:
   1. Make a new folder named js/services. In this folder, create a new file named js/services/emails.js.
